@@ -1,0 +1,9 @@
+smallest_so_far = -1
+for the_num in [9,41,12,3,74,15,]:
+    if the_num < smallest_so_far:
+        smallest_so_far = the_num
+
+print(smallest_so_far)
+
+
+# this is a trick # QUESTION & most would say this code has a bug - so read carefully
