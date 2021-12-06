@@ -1,5 +1,10 @@
+
+a = int(input("Enter a number"))
+b = int(input("Enter a number"))
+c = int(input("Enter a number"))
+
 large = -1
-for i in [1,34,56,78,90]:
+for i in [a,b,c]:
      if i > large:
         large = i
 
