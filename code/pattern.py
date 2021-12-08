@@ -23,7 +23,10 @@ while i <= n:
     print()
     i+=1
 # for another design
-
+#
+# #
+# # #
+# # # #
 j = 1
 while j <= 4:
     i = 1
