@@ -6,10 +6,12 @@
 ##    print("Fizz-Buzz")
 
 
-n = int(input("Enter a number"))
+n = int(input("Enter a number "))
 s = ""
 if n % 3 == 0:
     s += "Fizz"
 if n % 5 == 0:
     s += "Buzz"
+else:
+    print(n)
 print(s)
