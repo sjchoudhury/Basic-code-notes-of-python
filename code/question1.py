@@ -11,4 +11,3 @@ Git init - Is for initialisizing a new repository
 Git clone - Is for create a copy of an existing repository.
 Git branch - Is used for making changes within the present branch.
 Git checkout - Is used for switching branches or to navigate branches created by git branch.
-  
