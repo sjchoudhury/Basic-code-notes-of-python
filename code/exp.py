@@ -13,3 +13,4 @@ while True:
     tot = tot + fval
 
 print(tot,num,tot/num)
+#

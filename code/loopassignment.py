@@ -13,3 +13,4 @@ while True:
     tot = tot + num1
 print ('exit')
 print (tot,num,tot/num)
+#

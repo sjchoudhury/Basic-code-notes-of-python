@@ -10,3 +10,4 @@ if day<=20:
     print(day*rate)
 else:
     print((((hour-20)*rate)*1.5)+rate*20)
+#

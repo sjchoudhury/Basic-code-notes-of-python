@@ -7,3 +7,4 @@ for i in [9,34,434,42,42]:
 print("total", count)
 print("sum", sum)
 print("average", sum/count)
+#
