@@ -7,3 +7,4 @@ print(smallest_so_far)
 
 
 # this is a trick # QUESTION & most would say this code has a bug - so read carefully
+#

@@ -7,3 +7,4 @@ for i in [1,33,312,1,2,3,5,]:
         small = 1
 
 print("smallest value:",small)
+#

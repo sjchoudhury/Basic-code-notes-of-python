@@ -7,3 +7,4 @@ def grret(lang):
         return 'Hello'
 
 print(greet('fr'),'Perfect Plan B')
+#

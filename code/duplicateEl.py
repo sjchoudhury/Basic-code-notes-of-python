@@ -6,3 +6,4 @@ print(d)
 for key in d:
     if d[key]==2:
         print(key)
+#
