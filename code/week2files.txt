@@ -1,0 +1,10 @@
+files - can be anything which stores something
+folder - lots of files
+
+introduction to files
+
+opening: Open()
+
+open(file,mode)
+file : The path & name of the file
+mode : A string, define which
