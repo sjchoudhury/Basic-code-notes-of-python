@@ -40,15 +40,14 @@ while j <= 4:
 
 # for opposite
 
-j = 4# for column
-while j >= 1:
-    i = 1# for rows
+j = 1
+while j <= 4:
+    i = 1
     while i <= j:
         print("# ",end =" ")
         i = i + 1
     print()
-    j = j - 1
-
+    j = j + 1
 
 
 # patterns with numbers
@@ -87,3 +86,25 @@ while j <= 5:
     print()
     print()
     j = j + 1
+
+    #@title
+def halfDiamondStar(N):
+    for i in range(N):
+
+        for j in range(0, i+1):
+            print("*", end = "")
+        print()
+
+
+    for i in range(1, N):
+
+        for j in range(i, N):
+            print("*", end = "")
+        print()
+
+
+N = 5;
+
+
+halfDiamondStar(N);
+  

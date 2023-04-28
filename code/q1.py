@@ -11,3 +11,9 @@ if day<=20:
 else:
     print((((hour-20)*rate)*1.5)+rate*20)
 #
+
+
+xh = input("Enter Days:")
+xr = input("Enter Rate:")
+xp = float(xh) * float(xr)
+print("Pay:",xp)

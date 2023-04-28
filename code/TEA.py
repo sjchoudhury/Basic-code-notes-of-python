@@ -3,6 +3,8 @@ y = input('enter the rate:')
 try:
     day = float(x)
     rate = float(y)
+    hour = day/24
+
 except:
     print('Error,Please enter the numeric digit:')
     exit()

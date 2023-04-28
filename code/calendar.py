@@ -1,27 +1,27 @@
-num = int(input("Enter a number between 1-12"))
+num = int(input("Enter a number between 1-12: "))
 if (num == 1):
-    print("Jan")
+    print("January")
 elif (num == 2):
-    print("Feb")
+    print("February")
 elif(num == 3):
     print("March")
 elif(num == 4):
-    print("apr")
+    print("april")
 elif(num == 5):
     print("may")
 elif(num == 6):
-    print("jun")
+    print("june")
 elif(num == 7):
-    print("jul")
+    print("july")
 elif(num == 8):
-    print("aug")
+    print("august")
 elif(num == 9):
-    print("sep")
+    print("september")
 elif(num == 10):
-    print("oct")
+    print("october")
 elif(num == 11):
-    print("nov")
+    print("november")
 elif(num == 12):
-    print("dec")
+    print("december")
 else:
     print("Enter a valid number")

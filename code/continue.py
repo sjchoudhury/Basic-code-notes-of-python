@@ -7,4 +7,4 @@ while True:
     print(line)
 
 print('Done!')
-#
+# it's a break and continue function at specifi code word only it will end
